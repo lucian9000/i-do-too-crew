@@ -2,7 +2,7 @@
 
 ## Goals
 
-- Build an automated social media posting workflow for a South African events startup focused on matric dance planning.
+- Build an automated social media posting workflow for a South African events startup focused on matric dances and weddings.
 - Use Airtable as the control tower.
 - Use local n8n as the orchestration layer.
 - Use AI to generate copy, images, and short 9:16 videos.
@@ -45,6 +45,8 @@
 
 ### 5. Website
 - Home
+- Weddings page
+- Matric dances page
 - Packages
 - Gallery
 - About
@@ -82,3 +84,4 @@
 3. Map n8n workflows node by node
 4. Decide WhatsApp bot provider path
 5. Create GitHub repo and push planning repo
+6. Define advertising strategy for weddings and matric dances

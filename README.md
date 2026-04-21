@@ -11,6 +11,7 @@ Planning workspace for the I do to Crew startup events marketing and automation 
 - Instagram, Facebook, and TikTok distribution
 - WhatsApp bot for lead capture and client intake
 - Website and lead capture funnel
+- Advertising strategy for weddings and matric dances in the South African market
 
 ## Initial Workstreams
 
@@ -25,3 +26,9 @@ Planning workspace for the I do to Crew startup events marketing and automation 
 ## Notes
 
 This repo starts as a planning repo. Implementation can be added once the architecture is approved.
+
+## Planning Documents
+
+- `PLAN.md` - high level system plan
+- `ADVERTISING-BRAINSTORM.md` - brand and marketing direction
+- `CONTENT-PILLARS.md` - content strategy foundation
