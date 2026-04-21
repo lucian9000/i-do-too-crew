@@ -41,4 +41,5 @@ This repo starts as a planning repo. Implementation can be added once the archit
 - `N8N-BUILD-ORDER.md` - recommended workflow rollout order
 - `APPROVAL-WORKFLOW-OPS.md` - content approval operating guide
 - `IMPLEMENTATION-CHECKLIST.md` - execution checklist by phase
+- `LLM-PROVIDER-DECISION.md` - cost-effective LLM architecture decision
 - `WHATSAPP-INTAKE-FLOW.md` - lead capture conversation design
