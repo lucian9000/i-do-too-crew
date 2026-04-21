@@ -32,6 +32,7 @@ This repo starts as a planning repo. Implementation can be added once the archit
 - `PLAN.md` - high level system plan
 - `ADVERTISING-BRAINSTORM.md` - brand and marketing direction
 - `CONTENT-PILLARS.md` - content strategy foundation
+- `BRAND-ASSETS.md` - brand asset and watermark guidance
 - `AIRTABLE-SCHEMA.md` - Airtable base design
 - `N8N-WORKFLOW-MAP.md` - automation workflow map
 - `N8N-BUILD-SPECS.md` - node by node n8n build instructions
