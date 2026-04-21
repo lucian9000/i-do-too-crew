@@ -1,4 +1,4 @@
-# I do Too Crew - Implementation Checklist
+# I Do Crew - Implementation Checklist
 
 ## Purpose
 

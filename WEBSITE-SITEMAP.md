@@ -1,4 +1,4 @@
-# I do Too Crew - Website Sitemap and Copy Skeleton
+# I Do Crew - Website Sitemap and Copy Skeleton
 
 ## Purpose
 
@@ -157,7 +157,7 @@ Purpose:
 4. Why clients trust us
 
 ### Copy skeleton
-- I do Too Crew exists to help people celebrate major life moments with more beauty, less stress, and a stronger sense of occasion.
+- I Do Crew exists to help people celebrate major life moments with more beauty, less stress, and a stronger sense of occasion.
 
 ## 7. Contact / Quote Form
 Purpose:

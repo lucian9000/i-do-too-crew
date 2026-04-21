@@ -1,6 +1,6 @@
-# I do to Crew
+# I Do Crew
 
-Planning workspace for the I do to Crew startup events marketing and automation stack.
+Planning workspace for the I Do Crew startup events marketing and automation stack.
 
 ## Scope
 

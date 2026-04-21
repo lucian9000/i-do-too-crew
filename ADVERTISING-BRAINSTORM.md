@@ -1,8 +1,8 @@
-# I do Too Crew - Advertising Brainstorm
+# I Do Crew - Advertising Brainstorm
 
 ## Positioning
 
-I do Too Crew should not position itself only as a matric dance planner. The stronger positioning is:
+I Do Crew should not position itself only as a matric dance planner. The stronger positioning is:
 
 **Styled event planning for milestone moments**
 
@@ -68,7 +68,7 @@ Examples:
 - Package explanations
 - Testimonials
 - Timelines and delivery expectations
-- What working with I do Too Crew looks like
+- What working with I Do Crew looks like
 
 ### 5. Emotion
 Especially strong for weddings.

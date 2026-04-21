@@ -1,4 +1,4 @@
-# I do to Crew - System Plan
+# I Do Crew - System Plan
 
 ## Goals
 

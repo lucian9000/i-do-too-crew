@@ -1,4 +1,4 @@
-# I do Too Crew - n8n Build Specs
+# I Do Crew - n8n Build Specs
 
 ## Purpose
 

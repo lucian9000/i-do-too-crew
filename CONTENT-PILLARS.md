@@ -1,10 +1,10 @@
-# I do Too Crew - Content Pillars
+# I Do Crew - Content Pillars
 
 ## Brand Position
 
 **Styled event planning for milestone moments**
 
-I do Too Crew operates across two emotional and commercial lanes:
+I Do Crew operates across two emotional and commercial lanes:
 - Weddings
 - Matric dances
 

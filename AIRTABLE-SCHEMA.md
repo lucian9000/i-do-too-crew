@@ -1,4 +1,4 @@
-# I do Too Crew - Airtable Schema
+# I Do Crew - Airtable Schema
 
 ## Purpose
 
@@ -7,7 +7,7 @@ Airtable acts as the operational control tower for marketing, approvals, lead ca
 ## Base Structure
 
 Recommended base name:
-- `I do Too Crew OS`
+- `I Do Crew OS`
 
 ## Table 1: Brands
 Used to store core brand settings.

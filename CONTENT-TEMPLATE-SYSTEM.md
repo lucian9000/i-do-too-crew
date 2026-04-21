@@ -1,4 +1,4 @@
-# I do Too Crew - Content Template System
+# I Do Crew - Content Template System
 
 ## Purpose
 

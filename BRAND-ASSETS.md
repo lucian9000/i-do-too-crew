@@ -1,4 +1,4 @@
-# I do Too Crew - Brand Assets
+# I Do Crew - Brand Assets
 
 ## Current Logo Status
 
@@ -10,7 +10,7 @@ A logo image has been provided for current planning and brand direction.
 
 ## Current Working Assumption
 
-Until a dedicated I do Too Crew production logo pack is finalized, the provided phoenix-style mark can be used as a temporary working brand asset for:
+Until a dedicated I Do Crew production logo pack is finalized, the provided phoenix-style mark can be used as a temporary working brand asset for:
 - planning documents
 - mockups
 - watermark experiments

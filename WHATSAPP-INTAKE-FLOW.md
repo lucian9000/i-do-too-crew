@@ -1,4 +1,4 @@
-# I do Too Crew - WhatsApp Intake Flow
+# I Do Crew - WhatsApp Intake Flow
 
 ## Purpose
 
@@ -29,7 +29,7 @@ The WhatsApp bot is the first contact and lead qualification layer for inbound p
 
 ### Step 1: Welcome
 Message:
-- Welcome to I do Too Crew.
+- Welcome to I Do Crew.
 - Are you planning a wedding or a matric dance?
 
 Expected response:

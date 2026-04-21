@@ -1,8 +1,8 @@
-# I do Too Crew - LLM Provider Decision
+# I Do Crew - LLM Provider Decision
 
 ## Purpose
 
-This document defines the most cost-effective LLM strategy for I do Too Crew, including the cheapest stack, a recommended hybrid stack, the Docker path for local Ollama deployment, task routing between local and paid models, and the exact recommendation for this project.
+This document defines the most cost-effective LLM strategy for I Do Crew, including the cheapest stack, a recommended hybrid stack, the Docker path for local Ollama deployment, task routing between local and paid models, and the exact recommendation for this project.
 
 ## Decision Summary
 
@@ -176,7 +176,7 @@ Use paid model if task is:
 - brand-sensitive
 - approval-sensitive
 
-## Operational Recommendation for I do Too Crew
+## Operational Recommendation for I Do Crew
 
 ### Exact recommendation
 For this project, implement:
@@ -186,7 +186,7 @@ For this project, implement:
 3. **n8n routing logic** to separate low-value and high-value tasks
 
 ### Why this is the right fit
-I do Too Crew needs:
+I Do Crew needs:
 - cheap operational automation
 - decent writing quality
 - reliable lead handling
