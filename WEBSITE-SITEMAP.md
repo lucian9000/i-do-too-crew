@@ -220,6 +220,23 @@ Purpose:
 4. Submits quote form or opens WhatsApp
 5. Lead is saved to Airtable through n8n
 
+## Domain Requirement
+
+A production website will require a domain name to be acquired before launch.
+
+### Domain guidance
+- choose a domain that is short, memorable, and brand aligned
+- prioritize a `.co.za` and/or `.com` depending on availability
+- point the domain to the chosen website hosting environment
+- ensure DNS access is available for future integrations, forms, redirects, and tracking
+
+### Recommended domain tasks
+1. Check availability for brand-aligned domains
+2. Acquire primary domain
+3. Secure secondary defensive domain if useful
+4. Configure DNS records for hosting
+5. Prepare branded email or contact routing if needed later
+
 ## Recommended Build Priority
 1. Home
 2. Weddings page

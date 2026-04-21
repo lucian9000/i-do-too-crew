@@ -84,6 +84,8 @@ This checklist converts the strategy and architecture into an execution sequence
 - [ ] Test approval to publish sequence end-to-end
 
 ## Phase 7: Website
+- [ ] Acquire domain name
+- [ ] Configure DNS access
 - [ ] Build home page
 - [ ] Build weddings page
 - [ ] Build matric dances page
