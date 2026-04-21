@@ -32,3 +32,6 @@ This repo starts as a planning repo. Implementation can be added once the archit
 - `PLAN.md` - high level system plan
 - `ADVERTISING-BRAINSTORM.md` - brand and marketing direction
 - `CONTENT-PILLARS.md` - content strategy foundation
+- `AIRTABLE-SCHEMA.md` - Airtable base design
+- `N8N-WORKFLOW-MAP.md` - automation workflow map
+- `WHATSAPP-INTAKE-FLOW.md` - lead capture conversation design
