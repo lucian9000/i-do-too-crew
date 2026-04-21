@@ -88,7 +88,8 @@ This checklist converts the strategy and architecture into an execution sequence
 - [ ] Configure DNS access
 - [ ] Build home page
 - [ ] Build weddings page
-- [ ] Build matric dances page
+- [ ] Build matric events page
+- [ ] Build other events page
 - [ ] Build packages page
 - [ ] Build gallery page
 - [ ] Build about page

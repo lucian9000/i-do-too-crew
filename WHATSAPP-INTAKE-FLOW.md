@@ -34,7 +34,12 @@ Message:
 
 Expected response:
 - Wedding
-- Matric Dance
+- Matric Event
+- Birthday
+- Baby Shower
+- Bridal Shower
+- Corporate Event
+- Other
 
 Captured field:
 - `Event Type`

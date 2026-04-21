@@ -6,7 +6,9 @@
 
 I Do Crew operates across two emotional and commercial lanes:
 - Weddings
-- Matric dances
+- Matric events
+- Private events
+- Corporate events
 
 ## Pillar 1: Inspiration
 Purpose:

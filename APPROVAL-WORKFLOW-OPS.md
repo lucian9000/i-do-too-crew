@@ -71,7 +71,7 @@ The `Content Production` table should include at minimum:
 
 The reviewer should check:
 1. Does the content match the event type?
-2. Does the tone fit weddings, matric dances, or both?
+2. Does the tone fit the intended event category and audience?
 3. Is the CTA clear?
 4. Does the watermark help rather than distract?
 5. Is the asset strong enough for the chosen platform?

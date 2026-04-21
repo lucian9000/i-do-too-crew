@@ -7,8 +7,10 @@ I Do Crew should not position itself only as a matric dance planner. The stronge
 **Styled event planning for milestone moments**
 
 Primary service lanes:
-- Matric dances
 - Weddings
+- Matric events
+- Other milestone and private events
+- Corporate and styled functions
 
 This gives the brand a broader emotional range, stronger premium positioning, more content variety, and access to both aspirational youth audiences and higher-value wedding clients.
 
@@ -117,6 +119,17 @@ Primary audiences:
 - Families influencing budget and vendor choices
 - Local South African couples seeking elegant execution
 
+## Event Categories To Support
+
+Beyond weddings and matric events, the brand should also support:
+- birthdays
+- bridal showers
+- baby showers
+- engagement parties
+- private celebrations
+- corporate events
+- styled launches and social functions
+
 ## Campaign Concepts
 
 ### 1. Main Character Moments
@@ -173,7 +186,7 @@ Advertising should route traffic into WhatsApp and website forms.
 
 The WhatsApp bot should ask:
 1. What event are you planning?
-2. Is it a wedding or matric dance?
+2. What type of event is it?
 3. Event date?
 4. Location?
 5. Guest count?

@@ -11,17 +11,18 @@ Planning workspace for the I Do Crew startup events marketing and automation sta
 - Instagram, Facebook, and TikTok distribution
 - WhatsApp bot for lead capture and client intake
 - Website and lead capture funnel
-- Advertising strategy for weddings and matric dances in the South African market
+- Advertising strategy for event planning in the South African market
 
 ## Initial Workstreams
 
 1. Brand and business discovery
-2. Airtable schema design
-3. n8n workflow design
-4. WhatsApp bot intake flow
-5. Social content pipeline
-6. Website scope and launch plan
-7. Posting and approvals system
+2. Event-category positioning and offer structure
+3. Airtable schema design
+4. n8n workflow design
+5. WhatsApp bot intake flow
+6. Social content pipeline
+7. Website scope and launch plan
+8. Posting and approvals system
 
 ## Notes
 

@@ -17,7 +17,9 @@ Used to store core brand settings.
 - `Business Description` (long text)
 - `Primary Services` (multiple select)
   - Weddings
-  - Matric Dances
+  - Matric Events
+  - Private Events
+  - Corporate Events
   - Event Styling
   - Coordination
 - `Target Market` (long text)
@@ -51,9 +53,14 @@ Used for seasonal, paid, and organic campaign planning.
   - Parents
   - Students
   - Schools
+  - Families
+  - Businesses
+  - Hosts
 - `Service Focus` (multiple select)
   - Weddings
-  - Matric Dances
+  - Matric Events
+  - Private Events
+  - Corporate Events
 - `Goal` (single select)
   - Awareness
   - Leads
@@ -92,8 +99,10 @@ Stores raw and approved content concepts.
   - Conversion
 - `Event Type` (single select)
   - Wedding
-  - Matric Dance
-  - Both
+  - Matric Event
+  - Private Event
+  - Corporate Event
+  - Multiple
 - `Audience` (single line text)
 - `Hook` (long text)
 - `Core Message` (long text)
@@ -179,7 +188,9 @@ Core lead capture table from WhatsApp, website, and ads.
   - Referral
 - `Event Type` (single select)
   - Wedding
-  - Matric Dance
+  - Matric Event
+  - Private Event
+  - Corporate Event
 - `Event Date` (date)
 - `Location` (single line text)
 - `Guest Count` (number)

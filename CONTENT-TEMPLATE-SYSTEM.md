@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document defines repeatable content templates for social posts, reels, and watermark usage. It is intended to keep output consistent even before a full brand style guide is finalized.
+This document defines repeatable content templates for social posts, reels, and watermark usage across multiple event categories. It is intended to keep output consistent even before a full brand style guide is finalized.
 
 ## Core Principle
 

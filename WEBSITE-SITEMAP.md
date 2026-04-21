@@ -2,14 +2,14 @@
 
 ## Purpose
 
-The website should act as a trust layer and lead capture engine. It should support both weddings and matric dances without confusing visitors.
+The website should act as a trust layer and lead capture engine. It should support event planning broadly without confusing visitors, while still giving weddings and matric events dedicated paths.
 
 ## Recommended Structure
 
 ### 1. Home
 Purpose:
 - Introduce the brand
-- Immediately route visitors into the correct service path
+- Immediately route visitors into the correct event path
 - Capture inquiries quickly
 
 #### Home page sections
@@ -19,9 +19,10 @@ Purpose:
    - Primary CTA: Get a Quote
    - Secondary CTA: Chat on WhatsApp
 
-2. Two-path section
+2. Multi-path section
    - Planning a Wedding?
-   - Planning a Matric Dance?
+   - Planning a Matric Event?
+   - Planning Another Event?
 
 3. Why choose us
    - stress-free planning
@@ -31,7 +32,8 @@ Purpose:
 
 4. Signature services preview
    - wedding planning and styling
-   - matric dance planning and styling
+   - matric event planning and styling
+   - private and milestone event planning
    - decor and setup
    - coordination support
 
@@ -44,11 +46,11 @@ Purpose:
 
 #### Hero headline options
 - Styled milestone events, planned to be unforgettable.
-- Weddings and matric dances, beautifully brought to life.
+- Events worth remembering, beautifully brought to life.
 - Elegant event planning for the moments people never forget.
 
 #### Hero subheadline
-- We help couples, families, and students bring weddings and matric dances to life with style, structure, and less stress.
+- We help clients bring meaningful events to life with style, structure, and less stress.
 
 #### Primary CTA
 - Get a Quote
@@ -86,7 +88,7 @@ Purpose:
 - decor and setup
 - vendor coordination
 
-## 3. Matric Dances Page
+## 3. Matric Events Page
 Purpose:
 - Speak to students and parents at the same time
 - Sell the visual dream while reinforcing trust
@@ -193,7 +195,18 @@ Purpose:
 - customization
 - consultation process
 
-## 9. Optional Blog / Ideas Hub
+## 9. Other Events Page
+Purpose:
+- Broaden the commercial scope beyond the core entry lanes
+- Capture interest for birthdays, showers, corporate events, private functions, and styled celebrations
+
+### Sections
+- hero
+- event types served
+- styling and coordination services
+- custom quote CTA
+
+## 10. Optional Blog / Ideas Hub
 Purpose:
 - support SEO
 - support lead magnets
@@ -215,7 +228,7 @@ Purpose:
 
 ### Best path
 1. Visitor lands on page
-2. Chooses weddings or matric dances
+2. Chooses the closest event path
 3. Views visuals and services
 4. Submits quote form or opens WhatsApp
 5. Lead is saved to Airtable through n8n
@@ -240,10 +253,11 @@ A production website will require a domain name to be acquired before launch.
 ## Recommended Build Priority
 1. Home
 2. Weddings page
-3. Matric dances page
-4. Contact / Quote form
-5. Packages
-6. Gallery
-7. FAQ
-8. About
-9. Blog later
+3. Matric events page
+4. Other events page
+5. Contact / Quote form
+6. Packages
+7. Gallery
+8. FAQ
+9. About
+10. Blog later
